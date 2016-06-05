@@ -1,0 +1,55 @@
+ros-indigo-smarthome-media-onkyo-driver (0.1.63-0saucy) saucy; urgency=high
+
+  * Clean package xml
+  * Update package dependencies
+    Update messages packages names
+  * Remove building dependency
+  * Update package description & license
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 04 Jun 2016 22:00:00 -0000
+
+ros-indigo-smarthome-media-onkyo-driver (0.1.54-0saucy) saucy; urgency=high
+
+  * Apply new package architecture
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 07 Nov 2015 23:00:00 -0000
+
+ros-indigo-smarthome-media-onkyo-driver (0.1.53-0saucy) saucy; urgency=high
+
+  * Update onkyo configuration
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Fri, 30 Oct 2015 23:00:00 -0000
+
+ros-indigo-smarthome-media-onkyo-driver (0.1.51-0saucy) saucy; urgency=high
+
+  * Apply node base update
+  * Update gradle & dependencies
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Fri, 16 Oct 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-onkyo-driver (0.1.50-0saucy) saucy; urgency=high
+
+  * Update headers
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Tue, 18 Aug 2015 22:00:00 -0000
+
+ros-indigo-smarthome-media-onkyo-driver (0.1.10-0saucy) saucy; urgency=high
+
+  * Update package file
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Mon, 04 May 2015 20:32:00 -0000
+
+ros-indigo-smarthome-media-onkyo-driver (0.1.9-0saucy) saucy; urgency=high
+
+  * Add package
+  * Contributors: Erwan Le Huitouze
+
+ -- Mickael Gaillard <mick.gaillard@gmail.com>  Sat, 04 Apr 2015 22:00:00 -0000
+
+
